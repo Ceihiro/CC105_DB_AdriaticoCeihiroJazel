@@ -114,7 +114,7 @@ SELECT item_name, date_reported, status
 FROM Items
 ORDER BY date_reported DESC;
 
--- Query 3 - UP BY
+-- Query 3 - GROUP BY
 SELECT category, COUNT(*) as total
 FROM Items
 GROUP BY category;

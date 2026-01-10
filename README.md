@@ -76,7 +76,7 @@ Claim requests for items
 
 ---
 
-## 🔍 Sample Queries & Results
+## Queries & Results
 
 ### Query 1 - Find Found Items (WHERE)
 Find all items with "Found" status
@@ -119,7 +119,7 @@ Complete item info with person and location
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 - **Database:** MySQL
 - **Tables:** 5
